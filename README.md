@@ -1,6 +1,7 @@
 # Face_Recognition_using_SQLite_Database
 
 At first make shore that you installed the required modules, use commands provided in requirements.txt file.
+Then create two directory/folder "dataset" and "recognizer".
 dataset_creator.py file holds the code for adding the new user and collecting the photo samples of the user.
 Then replace the path of xml and db file with relative path of respective files.
 This collects the details of user like id, name, age & photo samples.
