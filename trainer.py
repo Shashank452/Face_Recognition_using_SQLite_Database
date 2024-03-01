@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 
 # Create LBPH face recognizer directly
-recognizer = cv2.face.createLBPHFaceRecognizer()
+recognizer=cv2.face.LBPHFaceRecognizer_create()
 
 # Define the path where the dataset is located
 path = "dataset"
