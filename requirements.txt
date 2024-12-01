@@ -1,4 +1,4 @@
-pip install opencv-python
-pip install opencv-contrib-python
-pip install db-sqlite3
-pip install numpy
+opencv-python
+opencv-contrib-python
+db-sqlite3
+numpy
